@@ -11,6 +11,7 @@
 # production
 /build
 /react
+/new
 
 # misc
 .DS_Store
