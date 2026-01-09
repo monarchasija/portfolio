@@ -45,7 +45,7 @@ const Contact: React.FC = () => {
                     rel="noopener noreferrer"
                     className="social-link-card"
                   >
-                    <IconComponent className="social-icon" />
+                    <IconComponent />
                     <span>{link.platform}</span>
                   </a>
                 );
